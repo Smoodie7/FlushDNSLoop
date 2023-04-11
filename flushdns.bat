@@ -1,7 +1,7 @@
 @echo off
 :loop
 ipconfig/flushdns
-timeout 1
+timeout 8
 cls
 goto loop
    
